@@ -3,7 +3,6 @@ def main():
     name = input("What's your name? ")
     print(f"Hi, {name}!")
 
-    # 3: Menu list
     menu = ["1. About me", "2. My goals", "3. Favorite hobby", "4. Exit"]
 
     running = True
